@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1 id="main_title">CRUD APPLICATION IN PHP</h1>
-    <p> simple </p>
+   
     <div class="container">
 </body>
